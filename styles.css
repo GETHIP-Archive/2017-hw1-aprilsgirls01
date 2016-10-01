@@ -2,6 +2,14 @@ body {
   padding: 5%;
   background-color: #f3f3f3;
 }
+h1 {
+  color: red;
+  text-align: center;
+  font-family: verdana;
+  font-size: 40px;
+  
+}
+}
 
 .gradeBox {
   width: 100%;
