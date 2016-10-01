@@ -9,7 +9,23 @@ h1 {
   font-size: 40px;
   
 }
+p{
+	color: orange;
+	text-align:left;
+	font-size:20px;
+	
+	
 }
+h2 {
+	color: yellow;
+	font-size: 30px
+	
+}
+button{
+	color: red;
+	font-size: 15px;
+}
+
 
 .gradeBox {
   width: 100%;
