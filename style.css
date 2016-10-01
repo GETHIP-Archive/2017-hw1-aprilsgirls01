@@ -1,0 +1,19 @@
+h1{
+  font:50px bold arial, sans-serif;
+
+}
+p{
+  color: grey;
+
+}
+.main-content{
+  border: 2px solid orange;
+  padding: 10px;
+
+}
+.favorite-site {
+  color: white;
+  background-color: grey;
+  padding:15px
+
+}
