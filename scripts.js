@@ -5,7 +5,7 @@ function problemOne() {
   let num3 = parseFloat(document.getElementById('num3').value);
   let num4 = parseFloat(document.getElementById('num4').value);
   let num5 = parseFloat(document.getElementById('num5').value);
-  let num2 = parseFloat(document.getElementById('num6').value);
+  let num6 = parseFloat(document.getElementById('num6').value);
   var sum= num1+num2+num3+num4+num5+num6;
   sum-=findMin(num1,num2,num3,num4,num5,num6);
   var average = sum/5;
@@ -24,7 +24,7 @@ function problemTwo() {
   let grade4 = document.getElementById('grade4').value;
   let grade5 = document.getElementById('grade5').value;
   let grade6 = document.getElementById('grade6').value;
-  var gpa=findGPA(grade1,gade2,grade3,grade4,grade5, grade6);
+  var gpa=findGPA(grade1,grade2,grade3,grade4,grade5, grade6);
   
   console.log(average);
   if (gpa >= 3){
